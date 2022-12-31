@@ -1,0 +1,7 @@
+*/datasets/
+*/data/
+# symlink
+*/data
+*.zarr
+.DS_Store
+.idea/
